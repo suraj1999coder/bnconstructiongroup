@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/suraj1999coder/bnconstructiongroup/static/css/main.5e5fee5f.css",
-    "main.js": "/suraj1999coder/bnconstructiongroup/static/js/main.ecf4feb1.js",
+    "main.js": "/suraj1999coder/bnconstructiongroup/static/js/main.f23495b2.js",
     "static/media/engineer.jpg": "/suraj1999coder/bnconstructiongroup/static/media/engineer.97d7c47db83c06c51ad6.jpg",
     "static/media/bootstrap-icons.woff?": "/suraj1999coder/bnconstructiongroup/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/home-hero.jpg": "/suraj1999coder/bnconstructiongroup/static/media/home-hero.3c7b19bb424c1df31322.jpg",
     "static/media/bootstrap-icons.woff2?": "/suraj1999coder/bnconstructiongroup/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "index.html": "/suraj1999coder/bnconstructiongroup/index.html",
     "main.5e5fee5f.css.map": "/suraj1999coder/bnconstructiongroup/static/css/main.5e5fee5f.css.map",
-    "main.ecf4feb1.js.map": "/suraj1999coder/bnconstructiongroup/static/js/main.ecf4feb1.js.map"
+    "main.f23495b2.js.map": "/suraj1999coder/bnconstructiongroup/static/js/main.f23495b2.js.map"
   },
   "entrypoints": [
     "static/css/main.5e5fee5f.css",
-    "static/js/main.ecf4feb1.js"
+    "static/js/main.f23495b2.js"
   ]
 }
